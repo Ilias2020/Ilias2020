@@ -32,9 +32,9 @@
 
 #### Мои проекты, которые я пишу обучаясь:
 
-  - :heavy_check_mark: [Payment API(Java, Spring Boot, Security, JWT, PostgreSQL, REST API, Hibernate)](https://github.com/Ilias2020/PaymentAPI)
-  - :heavy_check_mark: [XML to JSON Converter (Java, Spring Boot, Jackson, REST API)](https://github.com/Ilias2020/XmlToJSON)
-  - :heavy_check_mark: [File Splitter (Java, Spring Boot, REST API)](https://github.com/Ilias2020/FileSplitter)
+  - :heavy_check_mark: [Payment API](Java, Spring Boot, Security, JWT, PostgreSQL, REST API, Hibernate)(https://github.com/Ilias2020/PaymentAPI)
+  - :heavy_check_mark: [XML to JSON Converter] (Java, Spring Boot, Jackson, REST API)(https://github.com/Ilias2020/XmlToJSON)
+  - :heavy_check_mark: [File Splitter] (Java, Spring Boot, REST API)(https://github.com/Ilias2020/FileSplitter)
   - :heavy_check_mark: [Task tracker](https://github.com/Ilias2020/ilias-task-tracker-api) 📋
     
  #### Мои проекты, которые я писал обучаясь в JetBrains Academy:
