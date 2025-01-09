@@ -30,10 +30,12 @@
 
 ### Курсы и проекты:
 
-#### Мои проекты, которые я пишу обучаясь через Youtube:
+#### Мои проекты, которые я пишу обучаясь:
 
+  - :heavy_check_mark: [PaymentAPI](https://github.com/Ilias2020/PaymentAPI)
+  - :heavy_check_mark: [XmlToJSON](https://github.com/Ilias2020/XmlToJSON)
+  - :heavy_check_mark: [FileSplitter](https://github.com/Ilias2020/FileSplitter)
   - :heavy_check_mark: [Task tracker](https://github.com/Ilias2020/ilias-task-tracker-api) 📋
-  - :heavy_check_mark: []()
     
  #### Мои проекты, которые я писал обучаясь в JetBrains Academy:
  
